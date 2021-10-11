@@ -1,0 +1,10 @@
+.card {
+    position: absolute;
+    left: 40%;
+    top: 50%;
+}
+
+#facts {
+    margin: 20px;
+    position: relative;
+}
